@@ -42,7 +42,7 @@ error message. Run this in your terminal:
 
 ```console
 $ python lib/a_name_error.py
-```
+``
 
 Error messages have 3 parts:
 
